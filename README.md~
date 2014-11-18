@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+<meta charset="utf-8" />
+<body>
+<div id="heading" >
+	<h1>Kat Weber</h1>
+	<div class="menu"/>
+	work
+	<div class="menu"/>
+	education
+	<div class="menu"/>
+	hobbies
+	<div class="menu"/>
+	contact
+	<div class="menu"/>
+</div>
+</body>
+</html
