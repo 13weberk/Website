@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8" />
+<title> Katarina Weber </title>
+<link rel="stylesheet" href= "googlefonts">
+<link rel="stylesheet" href="style.css" >
+</head>
+<body>
+<h1>Kat Weber</h1>
+<h2>
+<div id="Heading" class="Heading">
+	<div id="tabContainer">
+	<div class="menu"/>
+		<a href="About.html">About Me</a>
+		<a href="Education.html">Education</a>
+		<a href="Hobbies.html">Hobbies</a>
+		<a href="Contact.html">Contact</a>
+		
+</div>
+</h2>
+<h3><img src="newimage.jpg" alt="newimage.jpg"</h3>
+<h4>
+</body>
+<p>My name is <strong>Kat Weber</strong> and I am currently a sophomore communications major and soon to be entertainment marketing minor at Saint Josephs University. I am invovled in greek life as a member of the Alpha Phi Sorority. <em> This site will give you a solid introduction on what makes me, me.</em></p> 
+<p> <small>Copyright 2014, Katarina Weber</small></p>
+</h4>
+</html>
