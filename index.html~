@@ -12,10 +12,10 @@
 <div id="Heading" class="Heading">
 	<div id="tabContainer">
 	<div class="menu"/>
-		<a href="about.html">Work Experience</a>
-		<a href="education.html">Education</a>
-		<a href="hobbies.html">Hobbies</a>
-		<a href="contact.html">Contact</a>
+		<a href="About.html">Work Experience</a>
+		<a href="Education.html">Education</a>
+		<a href="Hobbies.html">Hobbies</a>
+		<a href="Contact.html">Contact</a>
 		
 </div>
 </h2>
